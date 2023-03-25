@@ -1,0 +1,10 @@
+{
+    "embeddedLanguageFormatting": "off",
+    "htmlWhitespaceSensitivity": "strict",
+    "semi": false,
+    "singleQuote": true,
+    "useTabs": true,
+    "tabWidth": 4,
+    "trailingComma": "all",
+    "printWidth": 100
+}
